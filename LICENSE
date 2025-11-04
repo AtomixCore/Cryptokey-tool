@@ -1,18 +1,33 @@
-AtomixCore Public Use License v1.0 (APUL-1.0)
+AtomixCore Public Use License v2.0 (APUL-2.0)
 
-Copyright (C) 2025 Leo Lan
+Copyright © 2025 Leo Lan
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use the Software for personal, educational, or internal business purposes, including within closed-source or proprietary systems, subject to the following conditions:
+Permission is hereby granted, free of charge, to any individual or organization (the “User”) obtaining a copy of this software and associated documentation files (the “Software”), to use, modify, and build upon the Software solely for:
+- Personal or educational purposes, or
+- Internal business operations that do not result in a commercial product, service, or redistribution.
 
-1. Redistribution of this software, modified or unmodified, in any form (source or binary), is prohibited without explicit, written permission from the copyright holder.
-2. This software may not be sold, rebranded, sublicensed, or integrated into commercial platforms or SaaS products without written approval from the copyright holder.
-3. Any use of the software must include clear attribution to the original author: Leo Lan - https://github.com/atomixcore
-4. The author reserves the right to audit or request information about usage in proprietary systems and may revoke usage rights if these terms are violated.
+Restrictions:
+1. Redistribution of the Software, whether modified or unmodified, in any form (source, binary, or derived work), is prohibited without the prior written consent of the copyright holder.
+2. Commercial use is prohibited without written approval, including but not limited to:
+   - Selling, sublicensing, or rebranding the Software,
+   - Integrating it into paid products or SaaS platforms,
+   - Using it to provide commercial services to third parties.
+3. Public hosting of the Software or derivative works on public repositories or package registries is not permitted.
+4. Removal or alteration of attribution notices is not allowed.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Attribution:
+Any permitted use of the Software must include clear and visible attribution to the original author:
+"Based on software by Leo Lan — https://github.com/atomixcore"
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Commercial Licensing:
+For commercial usage, redistribution, or integration into proprietary platforms, a separate commercial license must be obtained by contacting:
+atomixcore@proton.me
 
-For commercial licensing, extended usage, or redistribution rights, contact: atomixcore@proton.me
+Compliance and Revocation:
+The copyright holder reserves the right to audit or request confirmation of usage compliance.
+Violation of any of the above terms automatically terminates the rights granted under this License.
 
-Licensed under the AtomixCore Public Use License v1.0 (APUL-1.0)
+Warranty Disclaimer:
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Licensed under the AtomixCore Public Use License v2.0 (APUL-2.0)
